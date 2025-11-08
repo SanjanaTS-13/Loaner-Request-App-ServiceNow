@@ -3,10 +3,7 @@ This is a custom ServiceNow application built using Studio to manage loaner equi
 Key Features:
 1. Scoped App built in ServiceNow Studio
 2. Role-based workflows (ESS User, Requestor, Fulfiller, Approver)
-3. Automated email notifications:
-   ** Ready for Pickup
-   ** Return Reminders
-   ** Overdue Alerts
+3. Automated email notifications: Ready for Pickup, Return Reminders, Overdue Alerts
 5. Scheduled scripts and business rules for daily checks
 6. Service Catalog integration for user submissions
 7. Request lifecycle tracking with custom states and approvals
